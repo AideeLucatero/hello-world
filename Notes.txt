@@ -1,0 +1,27 @@
+NOTES
+
+GIT
+-source control : a community of people working with same files in projects
+
+
+GITHUB
+-Flag changes
+-README - instructions for the repository
+
+VERSION CONTROL SYSTEM
+-always keeps track of older version
+-we can always go back to older versions
+
+REPOSITORY
+-data space where we can save anytype of files related to the project
+Why?
+
+
+central repository
+local repository
+link repositories
+
+
+Git comands:
+git remote add origin "github repository url"  ##link from central repository
+git pull origin master  ##fetch files from central repository
