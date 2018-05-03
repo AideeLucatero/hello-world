@@ -14,6 +14,8 @@ VERSION CONTROL SYSTEM
 
 REPOSITORY
 -data space where we can save anytype of files related to the project
+
+git add -A
 Why?
 
 
@@ -25,3 +27,4 @@ link repositories
 Git comands:
 git remote add origin "github repository url"  ##link from central repository
 git pull origin master  ##fetch files from central repository
+commit changes
